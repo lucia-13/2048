@@ -3,7 +3,7 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: #9cc2d2;
+  background: #01DF74;
   color: #354b59;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-family: "Whitney SSm A","Whitney SSm B","Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -60,7 +60,7 @@ input {
   clear: both; }
 
 h1.title {
-  font-size: 55px;
+  font-size: 70px;
   font-weight: medium;
   margin: 0;
   display: block;
@@ -97,14 +97,14 @@ h1.title {
 .score-container, .best-container {
   position: relative;
   display: inline-block;
-  background: #0c92bf;
+  background: #00FFFF;
   padding: 15px 25px;
   font-size: 25px;
   height: 25px;
   line-height: 47px;
   font-weight: bold;
   border-radius: 3px;
-  color: white;
+  color: blue;
   margin-top: 8px;
   text-align: center; }
   .score-container:after, .best-container:after {
@@ -116,7 +116,7 @@ h1.title {
     font-size: 13px;
     line-height: 13px;
     text-align: center;
-    color: #eee4da; }
+    color: #29088A; }
   .score-container .score-addition, .best-container .score-addition {
     position: absolute;
     right: 30px;
@@ -668,7 +668,7 @@ hr {
     -ms-user-select: none;
     -ms-touch-action: none;
     touch-action: none;
-    background: #1e6477;
+    background: #00FFFF;
     border-radius: 6px;
     width: 280px;
     height: 280px;
